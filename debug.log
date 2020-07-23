@@ -1,0 +1,21 @@
+[0722/205512.104:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0722/205512.104:ERROR:exception_snapshot_win.cc(99)] thread ID 15172 not found in process
+[0722/205512.120:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff6b0cf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.120:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0722/205512.120:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1a04db69e20 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_annotations_reader.cc(134)] could not read annotations list object in C:\Program Files (x86)\Microsoft\Edge\Application\84.0.522.40\msedge_elf.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcf68a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcf9240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcf7ab0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcf88e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcf8b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffc85f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\84.0.522.40\msedge.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1a04e060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0722/205512.135:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0722/205512.135:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcf7c00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
